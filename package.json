@@ -93,12 +93,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeraldGallet/projet-examen-m1.git"
+    "url": "git+https://github.com/SimonBecart/ProjetTechnoweb.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/GeraldGallet/projet-examen-m1/issues"
+    "url": "https://github.com/SimonBecart/ProjetTechnoweb/issues"
   },
-  "homepage": "https://github.com/GeraldGallet/projet-examen-m1#readme"
+  "homepage": "https://github.com/SimonBecart/ProjetTechnoweb#readme"
 }
