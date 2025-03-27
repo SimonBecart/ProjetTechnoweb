@@ -93,7 +93,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SimonBecart/ProjetTechnoweb.git"
+    "url": "https://github.com/SimonBecart/ProjetTechnoweb.git"
   },
   "author": "",
   "license": "ISC",
